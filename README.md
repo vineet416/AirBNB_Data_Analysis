@@ -5,6 +5,18 @@ Since 2008, guests and hosts have used AirBNB to expand on travelling possibilit
 ## 🛠 Tools Used
 1. Excel
 2. Jupyter notebook
+
+## 📉 Visualization
+![image](https://github.com/user-attachments/assets/e36ba4b5-0ad4-4ab2-ba8d-a4aaee34a9df)
+![image](https://github.com/user-attachments/assets/224f1e4b-7c6b-4a07-a8f5-f23ab6619e59)
+![image](https://github.com/user-attachments/assets/b61b7d60-8a12-4c26-a368-b1f1532140b1)
+![image](https://github.com/user-attachments/assets/06c542a9-5c2b-4ce4-93fb-494eea452171)
+![image](https://github.com/user-attachments/assets/e9939576-0670-4e0b-b9b2-04440cd2a438)
+![image](https://github.com/user-attachments/assets/f57e2e91-9a1f-40c0-afdf-c1a27e84a38b)
+![image](https://github.com/user-attachments/assets/83e35fdd-eaa8-4079-9ec9-be03f7d0f768)
+![image](https://github.com/user-attachments/assets/7051195f-8b47-4ed3-9a1e-643c21eb86d6)
+
+
 Watch the complete Analysis video [Link]()
 ## ✔️ Conclusion
 #### 1. Host Earnings
