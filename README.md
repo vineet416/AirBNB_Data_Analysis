@@ -16,7 +16,8 @@ Since 2008, guests and hosts have used AirBNB to expand on travelling possibilit
 ![image](https://github.com/user-attachments/assets/83e35fdd-eaa8-4079-9ec9-be03f7d0f768)
 ![image](https://github.com/user-attachments/assets/7051195f-8b47-4ed3-9a1e-643c21eb86d6)
 
-Watch the complete Analysis video 
+Watch the complete Analysis video [Link](https://youtu.be/uG9Zr09Jogc)
+
 ## ✔️ Conclusion
 #### 1. Host Earnings
 
